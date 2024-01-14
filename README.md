@@ -32,6 +32,4 @@ This repository contains a Python script for a Telegram bot capable of processin
 - `gtts==2.2.2`
 - `SpeechRecognition==3.8.1`
 
-Make sure to install these dependencies using `pip install -r requirements.txt` before running the script.
-
 Feel free to contribute, report issues, or enhance the functionality of this Telegram Voice-to-Text and Text-to-Speech bot. Happy botting!
